@@ -15,8 +15,8 @@ public class TaskA
 {
     public static void main(String[] args)
     {
-        int[] test = {0, 2, 6, 4, 3, 3, 2, 0, 3, 6, 0, 7, 3}; //given array
-        int arraySize = 13;     //size of array
+        int[] test = {0, 2, 6, 4, 3, 3, 2, 0, 3, 6, 0, 7, 3, 2, 3}; //given array
+        int arraySize = 15;     //size of array
         int userInput = 0;      //user's specified integer
 
         // Scanner object for keyboard input
